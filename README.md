@@ -1,5 +1,5 @@
-# rm_grpo
-<h1 align="center"> RAGEN: Training Agents by Reinforcing Reasoning </h1>
+
+<h1 align="center"> RM-GRPO </h1>
 
 
 <p align="center"><img src="public/ragen_logo.jpeg" width="300px" alt="RAGEN icon" /></p>
